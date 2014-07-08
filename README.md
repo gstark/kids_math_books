@@ -12,3 +12,6 @@ List of good math books for kids (of all ages)
 * Gödel, Escher, Bach: An Eternal Golden Braid 
  * Better for older kids (suggested ages anyone?)
  * http://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567/ref=la_B000AP5GCM_1_1
+* Math for Smarty Pants
+ * Thanks Lee Frank
+ * http://www.amazon.com/Brown-Paper-School-book-Smarty/dp/0316117390/
