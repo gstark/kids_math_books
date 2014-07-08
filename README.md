@@ -1,6 +1,8 @@
 List of good math books for kids (of all ages)
 ===============
 
+> If you want to submit good science books for kids we can put those in here too. :)
+
 * The Adventures of Penrose the Mathematical Cat
  * http://www.amazon.com/The-Adventures-Penrose-Mathematical-Cat/dp/1884550142
 * The Phantom Tollbooth
