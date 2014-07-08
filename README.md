@@ -15,3 +15,6 @@ List of good math books for kids (of all ages)
 * Math for Smarty Pants
  * Thanks Lee Frank
  * http://www.amazon.com/Brown-Paper-School-book-Smarty/dp/0316117390/
+* How to Lie with Statistics
+ * Thanks Lee Frank
+ * http://www.amazon.com/How-Lie-Statistics-Darrell-Huff/dp/0393310728
