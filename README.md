@@ -18,3 +18,10 @@ List of good math books for kids (of all ages)
 * How to Lie with Statistics
  * Thanks Lee Frank
  * http://www.amazon.com/How-Lie-Statistics-Darrell-Huff/dp/0393310728
+* Books by: Raymond Smullyan
+ * Thanks Ben Alexander
+* The Book of Think Or, How to Solve a Problem Twice Your Size: http://books.google.com.br/books/about/The_Book_of_Think.html?id=TM-EQgAACAAJ&redir_esc=y
+ * Thanks Ben Alexander
+* Making Mathematics with Needlework: http://www.crcpress.com/product/isbn/9781568813318
+ * Thanks Ben Alexander
+* Any of the Math videos by Vi Hart: https://www.youtube.com/user/Vihart
