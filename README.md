@@ -1,4 +1,4 @@
-List of good math books for kids (of all ages)
+List of good math (and programming) books for kids (of all ages)
 ===============
 
 > If you want to submit good science books for kids we can put those in here too. :)
@@ -33,3 +33,6 @@ List of good math books for kids (of all ages)
 > Adult books
 * A good, but difficult to read, book: [Gödel, Escher, Bach, An Eternal Golden Braid](https://www.amazon.com/Gödel-Escher-Bach-Eternal-Golden/dp/0465026567)
 * Supposedly an easier to digest book by the same author: [I Am a Strange Loop](www.amazon.com/Am-Strange-Loop-Douglas-Hofstadter/dp/0465030793/ref=pd_sbs_14_img_1)
+
+> Code
+* Code: The Hidden Language of Computer Hardware and Software - a great introduction to computer hardware and software: [Code](www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319/ref=pd_sbs_14_t_0) 
