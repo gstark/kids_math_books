@@ -26,13 +26,16 @@ List of good math (and programming) books for kids (of all ages)
  * Thanks Ben Alexander
  
 > Videos
+
 * [Vi Hart](https://www.youtube.com/user/Vihart)
 * [Numberphile](http://www.numberphile.com)
 * [P vs NP](https://www.youtube.com/watch?v=YX40hbAHx3s)
 
 > Adult books
+
 * A good, but difficult to read, book: [Gödel, Escher, Bach, An Eternal Golden Braid](https://www.amazon.com/Gödel-Escher-Bach-Eternal-Golden/dp/0465026567)
 * Supposedly an easier to digest book by the same author: [I Am a Strange Loop](www.amazon.com/Am-Strange-Loop-Douglas-Hofstadter/dp/0465030793/ref=pd_sbs_14_img_1)
 
 > Code
+
 * Code: The Hidden Language of Computer Hardware and Software - a great introduction to computer hardware and software: [Code](www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319/ref=pd_sbs_14_t_0) 
