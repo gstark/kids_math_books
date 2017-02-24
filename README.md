@@ -38,4 +38,4 @@ List of good math (and programming) books for kids (of all ages)
 
 > Code
 
-* Code: The Hidden Language of Computer Hardware and Software - a great introduction to computer hardware and software: [Code](www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319/ref=pd_sbs_14_t_0) 
+* Code: The Hidden Language of Computer Hardware and Software - a great introduction to computer hardware and software: [https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319/ref=pd_sbs_14_t_0](https://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319/ref=pd_sbs_14_t_0) 
